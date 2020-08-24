@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Suite","Enumeration for the suite of a card."],["Value","Enumeration for the value of a card."]],"fn":[["make_shuffled","Makes a randomly shuffled deck."]],"mod":[["set","Contains a set type for cards."]],"struct":[["Card","Uniquely identifies a card within a deck."]]});

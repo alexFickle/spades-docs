@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Status","The status of the trick."]],"struct":[["Trick","Contains all of the currently played cards and the starting player."]]});

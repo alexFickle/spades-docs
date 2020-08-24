@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Player","The possible players."]],"struct":[["Array","Length four array that uses `Player` as an index."],["Iterator","Iterator over players."]]});

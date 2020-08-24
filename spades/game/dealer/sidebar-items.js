@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ShuffledDealer","Default implementation of the Dealer Trait."]],"trait":[["Dealer","Trait for creating each player's hand."]]});

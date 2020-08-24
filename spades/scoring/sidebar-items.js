@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Bid","A player's bid."]],"fn":[["get_bid_value","Gets the value of a team's bid."],["get_winning_team_index","Gets the index of the winning team."]],"struct":[["Score","Represents a team's score."],["TeamRoundResult","Contains a team's bid and number of tricks taken in a round."]]});

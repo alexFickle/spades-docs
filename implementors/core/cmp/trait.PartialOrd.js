@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["spades"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/cmp/trait.PartialOrd.html\" title=\"trait core::cmp::PartialOrd\">PartialOrd</a>&lt;<a class=\"enum\" href=\"spades/card/enum.Value.html\" title=\"enum spades::card::Value\">Value</a>&gt; for <a class=\"enum\" href=\"spades/card/enum.Value.html\" title=\"enum spades::card::Value\">Value</a>","synthetic":false,"types":["spades::card::value::Value"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
